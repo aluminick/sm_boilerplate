@@ -1,0 +1,37 @@
+.post-content {
+  display: inline; }
+
+.post-action {
+  margin-top: 10px; }
+
+.comment-content {
+  display: inline; }
+
+.btn-like-comment, .btn-undo-like-comment {
+  margin-right: 3px; }
+
+#post-privacy {
+  width: auto;
+  margin-right: 5px; }
+
+.noresize-textarea {
+  resize: none !important; }
+
+#add-post {
+  height: 100px !important; }
+
+.post-edit-privacy {
+  width: auto;
+  margin-top: 10px; }
+
+textarea {
+  border-radius: 0 !important; }
+
+.comment-add {
+  margin-top: 15px; }
+
+.comment-edit-container {
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+/*# sourceMappingURL=app.css.map */
